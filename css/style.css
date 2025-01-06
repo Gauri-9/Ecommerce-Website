@@ -1,0 +1,82 @@
+    #shopnow{
+        background-color:#9adee6;
+    }
+.product-card {
+            margin-bottom: 20px;
+            transition: transform 0.3s;
+        }
+        .product-card:hover {
+            transform: scale(1.05);
+        }
+        .product-img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        .rating-star {
+            color: gold;
+        }
+
+        #registernavitem{
+            color:black;
+        }
+
+
+        body {
+    background-color: #f8f9fa;
+}
+
+#product-name {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#product-price {
+    color: #28a745;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+#product-description {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.quantity-control button {
+    width: 40px;
+    height: 40px;
+}
+
+#stock-quantity {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+#add-to-cart, #buy-now {
+    margin-right: 10px;
+}
+
+.review {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+       #checkout {
+            background-color: #f8f9fa;
+        }
+        .containercheckout {
+            max-width: 600px;
+            margin-top: 50px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        /*li a{
+            color:black;
+        }*/
+        /*#payment input,textarea{
+            margin-bottom:50px;
+        }*/
